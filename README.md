@@ -4,6 +4,20 @@ Senior developer focused on full-stack engineering, cloud platforms, and machine
 
 I use this space to share projects and experiments in software engineering, cloud systems, and applied machine learning.
 
+## What I Work On
+
+- Full-stack product engineering with a strong backend focus
+- Cloud architecture and delivery on AWS and Azure
+- Applied machine learning, especially practical computer vision workflows
+- Internal tools and automation that make complex systems easier to operate
+
+## Interests
+
+- Human-in-the-loop ML systems
+- Computer vision and interactive annotation workflows
+- ML tooling that prioritizes practical usefulness over benchmark-only thinking
+- Developer productivity, platform engineering, and scalable service design
+
 ## Stack
 
 - Backend: C#, ASP.NET Core, ASP.NET MVC Core
@@ -21,6 +35,12 @@ I use this space to share projects and experiments in software engineering, clou
 
 - Applied computer vision workflows
 - Cloud-based backend systems
+
+## Projects
+
+### [human-in-the-loop-basic-ideas](https://github.com/rkorin/human-in-the-loop-basic-ideas)
+
+A compact computer vision demo that explores iterative annotation, local U-Net retraining, and model-assisted review. The project focuses on how a small amount of supervision can quickly turn into a practically useful annotation loop.
 
 ## Experience Summary
 
